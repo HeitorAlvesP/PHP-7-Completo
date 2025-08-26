@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-        
+
     <header class="cabecalho">
         <h1>Curso PHP</h1>
         <h2>Indice de Exercícios</h2>
@@ -93,7 +93,7 @@
     </main>
 
     <footer class="rodape">
-        COD3R & ALUNOS ° 2019
+        COD3R & ALUNOS ° <?= date('Y'); ?>
     </footer>
 </body>
 </html>
