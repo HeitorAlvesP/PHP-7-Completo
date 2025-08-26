@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
+        
     <header class="cabecalho">
         <h1>Curso PHP</h1>
         <h2>Indice de Exercícios</h2>
